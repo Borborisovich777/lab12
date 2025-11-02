@@ -1,0 +1,3 @@
+First thoughts about this repo.
+Today I tested clone/push/pull.
+Third line for the lab.
