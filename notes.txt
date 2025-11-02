@@ -1,3 +1,7 @@
-First thoughts about this repo.
-Today I tested clone/push/pull.
-Third line for the lab.
+## Summary
+Combined summary: includes main priorities and feature key points.
+- From main: highlights items prioritized on main.
+- From feature: explains the key points from the feature perspective.
+
+## Insights
+New insights were added on main to guide future work.
